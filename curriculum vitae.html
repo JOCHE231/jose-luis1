@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+</div>
+<div><img src="img/img1.jpg"></div>
+</div>
+
+	<title style="color:#3346ff; border:2pzx solid rgb (0,255,0);">Jose Luis Valle Barraza - Programacion</title>
+
+	<meta charset="UTF-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<style>
+
+		body {
+
+			font-family: Arial, sans-serif;
+
+			margin: 0;
+
+			padding: 0;
+
+		}
+
+		header {
+
+			background-color: #ffb833;
+
+			color: white;
+
+			padding: 1rem;
+
+			text-align: center;
+
+		}
+
+		section {
+
+			margin: 1.5rem;
+
+		}
+
+		h1 {
+
+			margin: 0;
+
+		}
+
+		h2 {
+
+			margin-top: 0;
+
+		}
+
+	</style>
+
+</head>
+
+<body>
+
+	<header>
+	
+		<img src="perfil.jpg" alt="Foto de perfil" class="profile-image"> 
+
+		<h1>Jose Luis Valle Barraza</h1>
+
+		<h2>Programacion</h2>
+		
+
+	</header>
+	</div>
+
+
+<hr style="border-top: 2px solid black;">
+
+
+<div>
+
+	
+	
+	<meta charset="UTF-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<style>
+
+		body {
+
+			font-family: Arial, sans-serif;
+
+			margin: 0;
+
+			padding: 0;
+
+		}
+
+		header {
+
+			background-color: #ffb833;
+
+			color: white;
+
+			padding: 1rem;
+
+			text-align: center;
+
+		}
+
+		section {
+
+			margin: 1.5rem;
+
+		}
+
+		h1 {
+
+			margin: 0;
+
+		}
+
+		h2 {
+
+			margin-top: 0;
+
+		}
+
+	</style>
+
+    <header>
+
+	<section id="contact">
+
+		<h2 style="color:#00FFFF; border:2pzx solid rgb (0,255,0);">Informacion de programador</h2>
+
+		<p>Av.los olivos 1119-9</p>
+
+		<p>Jalisco, México</p>
+
+		<p>Email: 222311324@cecytejalisco.edu.mx</p>
+
+		<p>Phone: +52 33 40 72 57 86</p>
+		</header
+		
+		</div>
+
+
+<hr style="border-top: 2px solid black;">
+
+
+<div>
+<meta charset="UTF-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<style>
+
+		body {
+
+			font-family: Arial, sans-serif;
+
+			margin: 0;
+
+			padding: 0;
+
+		}
+
+		header {
+
+			background-color: #ffb833;
+
+			color: white;
+
+			padding: 1rem;
+
+			text-align: center;
+
+		}
+
+		section {
+
+			margin: 1.5rem;
+
+		}
+
+		h1 {
+
+			margin: 0;
+
+		}
+
+		h2 {
+
+			margin-top: 0;
+
+		}
+
+	</style>
+
+	
+
+</head>
+
+<body>
+	
+	</style>
+	
+
+	<section id="education">
+
+		<h2>Education</h2>
+
+		<p>Secundar:Ignacia encarnación</p>
+
+		<p>Primaria:Francisco Javier Mina</p>
+
+		<p>Graduado de la secundaria tecnica</p
+		
+
+
+<hr style="border-top: 2px solid black;">
+
+
+<div>
+
+	</section>
+
+	<section id="experience">
+
+		<h2>Experiencia de trabajo</h2>
+
+		<p>Abarrotera</p>
+		''
+
+
+<hr style="border-top: 2px solid black;">
+
+
+<div>
+
+		
+	</section>
+
+	<section id="skills">
+
+		<h2>Abilidades</h2>
+
+		<ul>
+
+			<li>Java</li>
+
+			<li>Notepad</li>
+
+			<li>HTML/CSS</li>
+
+		</ul>
+
+	</section>
+	'
+
+
+<hr style="border-top: 2px solid black;">
+
+
+<div>
+
+</body>
+
+</html>
